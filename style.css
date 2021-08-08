@@ -1,0 +1,20 @@
+ body{
+     overflow: hidden;
+ }
+ .btn{
+     background-color: red;
+     outline: none;
+     border: none;
+     font-size: 2em;
+     margin: 30px;
+     color: white;
+     font-weight: bold;
+     padding: 5px 20px;
+     border-radius: 5px;
+     cursor: pointer;
+     width: 125px; 
+
+ }
+ .btn.pause{
+     background-color: green;
+ } 
